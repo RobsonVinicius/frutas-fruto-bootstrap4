@@ -1,5 +1,5 @@
 
-## Frutas Fruto Bootstrap 4" 
+## Frutas Fruto  
 
 ### Especificações
 
