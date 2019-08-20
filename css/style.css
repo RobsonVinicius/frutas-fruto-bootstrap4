@@ -1,0 +1,16 @@
+.carousel-img1 {  
+  object-fit: cover;
+  object-position: 0 90%;
+  height: 50vh; 
+  filter: brightness(60%);
+}
+.carousel-img2 {
+  object-fit: cover;
+  object-position: 0 60%;
+  height: 50vh; 
+  filter: brightness(50%);
+}
+
+.carousel-title {
+  font-family: 'Sriracha', cursive;
+}
