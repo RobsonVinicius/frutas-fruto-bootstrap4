@@ -2,15 +2,19 @@
   object-fit: cover;
   object-position: 0 90%;
   height: 50vh; 
-  filter: brightness(60%);
+  filter: brightness(60%) grayscale(3%) blur(2px);
 }
 .carousel-img2 {
   object-fit: cover;
   object-position: 0 60%;
   height: 50vh; 
-  filter: brightness(50%);
+  filter: brightness(55%) blur(2px);
 }
 
-.carousel-title {
+.font-title {
   font-family: 'Sriracha', cursive;
+}
+
+.special-color {
+  color: darkred
 }
