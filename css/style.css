@@ -15,6 +15,29 @@
   font-family: 'Sriracha', cursive;
 }
 
-.special-color {
+.text-special-color {
   color: darkred
+}
+
+.btn-special {
+  background-color: darkred;
+  color: #fff;
+}
+
+.btn-special:hover {
+  background-color: #d73030;
+  color: #fff;
+}
+
+.card-scale {
+  width: 18rem;
+}
+
+.card-position-img {
+  object-fit: cover;  
+  height: 200px;
+}
+
+.border-special-color {
+  border-color: darkred
 }
