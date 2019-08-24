@@ -30,7 +30,7 @@
 }
 
 .card-scale {
-  width: 18rem;
+  max-width: 18rem;
 }
 
 .card-position-img {
@@ -40,4 +40,8 @@
 
 .border-special-color {
   border-color: darkred
+}
+
+#card-recipes {
+  object-fit: cover;
 }
