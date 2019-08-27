@@ -20,7 +20,7 @@
 #### Versão Mobile
 ***
 
-![Blueprint Versão Mobile](https://raw.githubusercontent.com/RobsonVinicius/frutas-fruto-bootstrap4/master/img/thumbnail-mobile.png)
+![Blueprint Versão Mobile](https://raw.githubusercontent.com/RobsonVinicius/frutas-fruto-bootstrap4/master/img/thumbnail-mobile.jpg)
 
 <br>
 
