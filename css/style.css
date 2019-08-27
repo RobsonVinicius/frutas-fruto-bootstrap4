@@ -49,3 +49,16 @@
 #card-recipes {
   object-fit: cover;
 }
+
+dialog {
+  padding: 0px;
+}
+
+.logo-font {
+  font-size: 1.4rem;  
+}
+
+.logo-font:hover {
+  color: rgb(214, 6, 6);
+  text-decoration: none;
+}
