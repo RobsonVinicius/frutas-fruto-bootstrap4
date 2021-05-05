@@ -3,6 +3,8 @@
 
 Site básico criado como exercício
 
+<br>
+
 ## Ferramentas utilizadas
 
 Tecnologia | Descrição | Versão | Site
