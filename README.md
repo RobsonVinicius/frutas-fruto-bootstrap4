@@ -1,24 +1,27 @@
 
-## Frutas Fruto  
+# Frutas Fruto  
 
-### Especificações
+Site básico criado como exercício
 
-• Bootstrap v4.3.1
+## Ferramentas utilizadas
 
-• JQuery v3.3.1 
+Tecnologia | Descrição | Versão | Site
+------------ | ------------- | ------------ | ------------
+Bootstrap | Uma biblioteca para criar interfaces | 4.3.1 | https://getbootstrap.com/
+JQuery | jQuery is a fast, small, and feature-rich JavaScript library | 3.3.1 | https://jquery.com/
 
 
 <br>
 
-#### Versão Desktop 
-***
+## Versão Desktop 
+
 
 ![Blueprint Versão Desktop](https://raw.githubusercontent.com/RobsonVinicius/frutas-fruto-bootstrap4/master/img/thumbnail.jpg)
 
 <br>
 
-#### Versão Mobile
-***
+## Versão Mobile
+
 
 ![Blueprint Versão Mobile](https://raw.githubusercontent.com/RobsonVinicius/frutas-fruto-bootstrap4/master/img/thumbnail-mobile.jpg)
 
